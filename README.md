@@ -6,11 +6,11 @@ Bem-vindo ao **Teuzin Fotografia**! Este projeto é uma vitrine onde posso compa
 
 ## 📷 Projeto
 
-**Mobile**![Celular](.github/iPhone-13-PRO-127.0.0.1.png)
+**Mobile**![Celular](.github/mobile.png)
 
 ##
 
-**Desktop**![PC](.github/Macbook-Air-127.0.0.1.png)
+**Desktop**![PC](.github/desktop.png)
 
 ## 🚀 Tecnologias
 
@@ -30,4 +30,4 @@ Se você gostou do projeto ou tem alguma sugestão, entre em contato comigo em: 
 
 ---
 
-**Teuzin Fotografia** © 2024. Todos os direitos reservados.
+**Teuzin Fotografia** © 2025. Todos os direitos reservados.

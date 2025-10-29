@@ -1,5 +1,5 @@
 // Checking valid routes
-const validRoutes = ["/", "/about/", "/socialmedia/"];
+const validRoutes = ["/", "/about/"];
 const currentRoute = window.location.pathname;
 
 if (!validRoutes.includes(currentRoute)) {
