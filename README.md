@@ -30,4 +30,4 @@ Se você gostou do projeto ou tem alguma sugestão, entre em contato comigo em: 
 
 ---
 
-**Teuzin Fotografia** © 2025. Todos os direitos reservados.
+**Teuzin Fotografia** © 2026. Todos os direitos reservados.
